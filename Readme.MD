@@ -60,4 +60,5 @@
       <li>Girintilemeyi bozmak</li>
       <li>Takım kuralları</li>
     </ul>
+  <li>Kaynaklar</li>
 </ul> 
