@@ -5,5 +5,5 @@
   <li>Temiz Kod nedir?</li>
   <li>Anlamlı isimlendirmeler</li>
   <li>Yorumlar</li>
-  <li>Kodun Formatı</li>
+  <li>Kodun biçimsel düzeni</li>
 </ul> 
