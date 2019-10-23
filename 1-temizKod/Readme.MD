@@ -61,4 +61,5 @@
       <li>Takım kuralları</li>
     </ul>
   <li>Kaynaklar</li>
+      https://docs.google.com/presentation/d/1PyzRwoNpmMWlSxsJzgudWRr3GE0m5-fEuiZFsFCyRUM/edit#slide=id.g600c496a10_0_132
 </ul> 
